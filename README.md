@@ -5,7 +5,7 @@ A Matlab program that implements a Bayesian Active Learning (BAL) method applied
 
 ## Reference
 
-P. Ruiz, J. Mateos, G. Camps-Valls, R. Molina, and A.K. Katsaggelos, "Bayesian Active Remote Sensing Image Classification", IEEE Transactions on Geoscience and Remote Sensing, vol. 52, no. 4, 2186-2196, April 2014. [BibTeX entry][Abstract][ [![](http://decsai.ugr.es/vip/images/pdficon.gif) (3804 KB.)](http://decsai.ugr.es/vip/files/journals/TGSRS13_BALRS.pdf)]
+P. Ruiz, J. Mateos, G. Camps-Valls, R. Molina, and A.K. Katsaggelos, "Bayesian Active Remote Sensing Image Classification", IEEE Transactions on Geoscience and Remote Sensing, vol. 52, no. 4, 2186-2196, April 2014. [[![DownloadPDF] (http://decsai.ugr.es/vip/images/pdficon.gif)(3804 KB.)](http://decsai.ugr.es/vip/files/journals/TGSRS13_BALRS.pdf)]
 
 ## Video Demostration
 
